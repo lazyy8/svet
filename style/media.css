@@ -1,0 +1,1330 @@
+@media screen and (max-width: 1024px) {
+
+  /* INDEX */
+  /* NAV */
+
+  nav li {
+    margin: auto 1.5em;
+  }
+  
+  nav a {
+    font-size: 12px;
+  }
+  
+  .nav-btn {
+    width: 150px;
+    height: 35px;
+    font-size: 14px;
+  }
+ /* HERO */
+
+ .hero-section{
+  margin-right: 30px;
+}
+
+.hero-img {
+  margin-left: 30px;
+  width: 225% !important;
+}
+
+.hero-all {
+  font-size: 16px;
+}
+
+.hero-title {
+  font-size: 36px;
+}
+
+.hero-btn {
+  width: 150px;
+  height: 50px;
+}
+
+.navbar-brand{
+  margin-left: 30px;
+}
+
+/* Help */
+.help {
+  margin-top: 85px;
+}
+
+.help-container {
+  margin-top: 55px;
+  max-width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img-fluid {
+  height: auto !important;
+  max-width: 100%;
+  margin-left: 0;
+}
+
+.help-text {
+  margin-right: 20px;
+  flex: 1;
+  font-size: 14px;
+}
+
+/* WAYS */
+
+.card-img {
+  width: 400px;
+  height: auto;
+  padding: 0 !important;
+}
+
+.ways-container {
+  margin-left: -20px;
+}
+
+.card1, .card2 {
+  width: 437px !important;
+  height: 635px !important;
+}
+
+.card-horizontal {
+  flex-direction: column-reverse;
+}
+
+/* NEWS */
+
+.news-container {
+  margin-top: 40px;
+}
+
+.container-num1,
+.container-num2,
+.container-num3 {
+  width: 25%;
+  height: auto;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.container-num1 img,
+.container-num2 img,
+.container-num3 img {
+  width: 50%;
+  height: auto;
+}
+
+.adaptive1
+.adaptive2
+.adaptive3 {
+  width: 0px !important;
+  height: 25% !important;
+  margin-left: 150px !important;
+  padding: 0 !important;
+}
+
+
+/* FOOTER */
+
+.footer {
+  margin-top: 30px;
+}
+
+.footer-logo {
+  margin-left: 0 !important;
+}
+
+.column-f {
+  width: 100%;
+}
+
+.list-1,
+.list-2,
+.list-3 {
+  margin-left: 0;
+  margin-bottom: 10px;
+}
+
+.li-footer {
+  padding-top: 5px;
+}
+
+.fa-chevron-right,
+.fa-globe,
+.fa-envelope,
+.fa-phone {
+  margin-right: 5px;
+}
+
+/* ABOUT */
+/* HERO */
+
+.font-red {
+  font-size: 38px;
+}
+
+.romb-img {
+  width: 110% !important;
+  padding-left: 10px;
+}
+
+/* WAYS */
+/* WAYS */
+
+.help-headers {
+  margin-left: 80px;
+}
+
+.card-imgs {
+  width: 100% !important;
+  height: auto;
+  padding: 0 !important;
+  }
+  
+  .ways-containers {
+  margin-left: 0px;
+  }
+  
+  .card1s, .card2s {
+  width: 150% !important;
+  height: 600px !important;
+  }
+  
+  .card-horizontals {
+  justify-content: start !important;
+  flex-direction: column;
+  }
+
+  .mini-mm {
+    margin-left: 100px;
+  }
+
+  /* TEAM */
+  /* TEAM */
+
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 40px;
+  }
+  
+  .users-text{
+    margin-top: 5px;
+    margin-left: 108px;
+  }
+  
+  .users {
+    width: 1900px;
+    margin-left: -160px;
+    margin-top: 33px;
+  }
+  
+  .card-team1{
+  padding: 0 !important;
+  padding-right: 0px !important;
+  margin-bottom: 35px;
+  margin-right: 0px;
+  }
+  .card-team2{
+  padding: 0 5px !important;
+  margin-right: 0px;
+  
+  }
+  .card-team3{
+    padding: 0 10px !important;
+    margin-left: 0px;
+  }
+  .card-team4{
+  padding: 0 !important;
+  margin-left: -160px;
+  }
+  .card-team5{
+  padding: 0 !important;
+  margin-left: -40px;
+  }
+  
+  .rounded-circle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .text-left {
+    height: 850px !important;
+    width: 265px !important;
+  }
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 100px !important;
+  }
+
+  /* HISTORY */
+  .his-con {
+    margin-top: 23px;
+    margin-left: 110px;
+  }
+  
+  .his-text1 {
+    margin-left: 110px;
+  }
+  
+  .his-text2 {
+    margin-left: 110px;
+    margin-top: 25px;
+  }
+  
+  .his-text3 {
+    margin-left: 110px;
+    margin-top: 25px;
+  }
+
+
+  /* СONTACT */
+  .con-con {
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.con-text1 {
+margin-left:  100px;
+margin-top: px;
+}
+
+.con-text2 {
+margin-left: 0px;
+margin-top: 10px;
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #CB4E5D !important;
+}
+
+.mini-m{
+  margin-top: 18px;
+  margin-right: 405px !important ;
+}
+
+.a-link {
+  padding: 0 !important;
+}
+
+.a-item {
+  padding: 0 !important;
+}
+
+.icon-about {
+  margin-left: 13px;
+  padding-right: 5px;
+}
+
+.map {
+  display: none;
+  }
+
+}
+
+/* MAIN NYANYA */
+
+.nya-text {
+  width: auto !important;
+  margin-left: 100px;
+  margin-top: 5px;
+
+}
+
+
+.nya-text-p1 {
+  padding-bottom: 30px;
+}
+
+.nya-text-p2 {
+  padding-bottom: 35px;
+}
+
+.nya-text-p4 {
+  margin-left: 100px;
+  padding-bottom: 20px;
+}
+
+.nya-text-p5 {
+  margin-left: 100px;
+  padding-bottom: 20px;
+}
+
+.nya-img {
+padding-left: 90px;
+}
+
+ /* STYLE TEATRE */
+ .container-t {
+  width: 1400px;
+  font-size: 14px !important;
+}
+
+.container-text {
+  margin-left: -10px;
+  margin-top: 17px;
+}
+
+.img-teatr {
+  margin-top: 83px;
+  margin-left: -50px;
+}
+
+.img-main {
+  margin-left: -50px;
+  width: 125%;
+}
+
+.text-back {
+  margin-top: -10px;
+}
+
+.heading-teatr {
+  width: 840px;
+  font-size: 30px !important;
+}
+
+.descr-teatr {
+  margin-top: 30px;
+  font-size: 24px !important;
+}
+
+.icon-text {
+  margin-top: 40px;
+  padding: 0;
+}
+
+
+.icon-teatr1 {
+  padding-right: 20px;
+  margin-bottom: 15px;
+}
+.icon-teatr2 {
+  padding-right: 30px;
+  margin-top: -25px;
+}
+.icon-teatr3 {
+  margin-right: 15px;
+  margin-top: -20px;
+}
+.icon-teatr4 {
+  padding-right: 25px;
+  margin-top: -13px;
+}
+.icon-teatr5 {
+  padding-right: 15px;
+  margin-top: -13px;
+}
+
+.all-text-icon {
+  align-items: center;
+}
+
+.text-bottom {
+  width: 1440px !important;
+  margin-top: 7px;
+  margin-left: -12px;
+}
+
+
+
+
+@media screen and (max-width: 992px) {
+/* INDEX */
+/* NAV */
+nav li {
+  margin: auto 1em;
+}
+
+nav a {
+  font-size: 14px;
+}
+
+.nav-btn {
+  width: 120px;
+  height: 30px;
+  font-size: 12px;
+}
+
+  /* HERO */
+  .hero-section{
+    margin-right: 0;
+  }
+  
+  .hero-img {
+    margin-left: 0;
+    width: 180% !important;
+  }
+  
+  .hero-all {
+    font-size: 14px;
+  }
+  
+  .hero-title {
+    font-size: 28px;
+  }
+  
+  .hero-btn {
+    width: 120px;
+    height: 45px;
+    font-size: 12px;
+  }
+  
+  .navbar-brand{
+    margin-left: 0;
+  }
+/* HELP */
+.img-fluid {
+  width: 70% !important;
+  height: auto !important;
+}
+
+.help-text {
+  margin-top: 0;
+  font-size: 14px !important;
+   margin-left: -150px;
+   
+  }
+
+.help-descr {
+  font-size: 16px;
+}
+
+/* WAYS */
+
+.card-img {
+  width: 100%;
+  }
+  
+  .ways-container {
+  margin-top: 500px;
+  margin-left: 0;
+  }
+  
+  .card1, .card2 {
+  width: 363px !important;
+  height: 516px !important;
+  }
+  
+  .card-horizontal {
+  flex-direction: column;
+  }
+  
+  /* footer */
+
+  .footer-logo {
+    margin-left: 0 !important;
+    text-align: center;
+    }
+    
+    .column-f {
+    width: 100%;
+    margin-bottom: 30px;
+    }
+    
+    .list-1,
+    .list-2,
+    .list-3 {
+    margin-left: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    }
+    
+    .fa-chevron-right,
+    .fa-globe,
+    .fa-envelope,
+    .fa-phone {
+    margin-right: 5px;
+    }
+
+    /* WAYS */
+    /* WAYS */
+          /* WAYS */
+/* WAYS */
+
+.help-headers {
+  margin-left: 70px;
+}
+
+.card-imgs {
+  width: 100% !important;
+  height: auto;
+  padding: 0 !important;
+  }
+  
+  .ways-containers {
+  margin-left: 0px;
+  }
+  
+  .card1s, .card2s {
+  width: 150% !important;
+  height: 600px !important;
+  }
+  
+  .card-horizontals {
+  justify-content: start !important;
+  flex-direction: column;
+  }
+
+  .mini-mm {
+    margin-left: 100px;
+  }
+
+  .card-titles {
+    font-size: 16px !important;
+  }
+  .card-texts {
+    font-size: 12px !important;
+  }
+
+   /* TEAM */
+  /* TEAM */
+
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 50px;
+  }
+  
+  .users-text{
+    margin-top: 5px;
+    margin-left: 108px;
+  }
+  
+  .users {
+    width: 1900px;
+    margin-left: -170px;
+    margin-top: 33px;
+  }
+  
+  .card-team1{
+  padding: 0 !important;
+  padding-right: 0px !important;
+  margin-bottom: 35px;
+  margin-right: 0px;
+  }
+  .card-team2{
+  padding: 0 5px !important;
+  margin-right: 0px;
+  
+  }
+  .card-team3{
+    padding: 0 10px !important;
+    margin-left: 0px;
+  }
+  .card-team4{
+  padding: 0 !important;
+  margin-left: -170px;
+  }
+  .card-team5{
+  padding: 0 !important;
+  margin-left: -40px;
+  }
+  
+  .rounded-circle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .text-left {
+    height: 850px !important;
+    width: 265px !important;
+  }
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 100px !important;
+  }
+  /* HISTORY */
+  .his-con {
+    margin-top: 23px;
+    margin-left: 110px;
+  }
+  
+  .his-text1 {
+    margin-left: 110px;
+  }
+  
+  .his-text2 {
+    margin-left: 110px;
+    margin-top: 25px;
+  }
+  
+  .his-text3 {
+    margin-left: 110px;
+    margin-top: 25px;
+  }
+
+
+
+
+  }
+
+@media screen and (max-width: 768px) {
+    /* INDEX */
+    /* HERO */
+    .hero-section{
+      margin-top: 100px;
+      margin-right: 0;
+      }
+      
+      .hero-img {
+      margin-left: 0;
+      width: 225% !important;
+      }
+      
+      .hero-all {
+      font-size: 12px;
+      }
+      
+      .hero-title {
+      font-size: 24px;
+      }
+      
+      .hero-btn {
+      width: 100px;
+      height: 35px;
+      font-size: 10px;
+      }
+      
+      .navbar-brand{
+      margin-left: 0;
+      }
+      
+      /* HELP */
+
+      .img-fluid {
+        width: 400px !important;
+        height: auto !important;
+        margin-left: -100px; 
+        margin-bottom: 50px;
+        }
+        
+        .help-text {
+        margin-top: 20px;
+        font-size: 8px !important;
+        margin-left: -50px !important;
+        padding-right: 0;
+        }
+
+        .help-descr {
+          font-size: 10px !important;
+          margin-left: 20px;
+        }
+      
+      /* WAYS */
+      .card-img {
+        width: 100%;
+        height: auto;
+        padding: 0 !important;
+        }
+        
+        .ways-container {
+        margin-left: 0;
+        }
+        
+        .card1, .card2 {
+        width: 100% !important;
+        height: 650px !important;
+        }
+        
+        .card-horizontal {
+        flex-direction: column;
+        }
+
+        /* FOOTER */
+
+        .footer-logo {
+          text-align: center;
+          margin-left: auto !important;
+          margin-right: auto !important;
+          width: 25% !important;
+          }
+          
+          .column-f {
+          width: 100%;
+          margin-bottom: 30px;
+          text-align: center;
+          }
+          
+          .list-1,
+          .list-2,
+          .list-3 {
+          margin-left: 0;
+          margin-bottom: 10px;
+          text-align: center;
+          
+          }
+          
+          .fa-chevron-right,
+          .fa-globe,
+          .fa-envelope,
+          .fa-phone {
+          margin-right: 5px;
+          }
+
+          .list-unstyled {
+            font-size: 12px;
+          }
+
+          /* ABOUT */
+
+          .romb-img {
+            width: 90% !important;
+
+          }
+
+          /* WAYS */
+            /* WAYS */
+
+            .help-headers {
+              margin-left: 200px;
+            }
+
+            .card-imgs {
+              width: 100% !important;
+              height: auto;
+              padding: 0 !important;
+              }
+              
+              .ways-containers {
+              margin-left: -60px;
+              }
+              
+              .card1s, .card2s {
+              width: 540% !important;
+              height: 450px !important;
+              padding: 0 !important;
+              }
+
+              .card1s {
+                margin-left: -320px !important;
+              }
+              
+              .card-horizontals {
+              justify-content: start !important;
+              flex-direction: column;
+              }
+
+              .mini-mm {
+                margin-left: 100px;
+              }
+
+              .card-titles {
+                font-size: 16px !important;
+              }
+              .card-texts {
+                font-size: 12px !important;
+              }
+               /* TEAM */
+  /* TEAM */
+
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 40px;
+  }
+  
+  .users-text{
+    margin-top: 5px;
+    margin-left: 108px;
+  }
+  
+  .users {
+    width: 920px;
+    margin-left: px;
+    margin-top: 33px;
+    flex-direction: column;
+  }
+  
+  .card-team1{
+  padding: 0 !important;
+  padding-right: 0px !important;
+  margin-bottom: 35px;
+  margin-left: 450px;
+  }
+  .card-team2{
+  padding: 0 5px !important;
+  margin-left: 448px;
+  margin-bottom: 35px;
+  
+  }
+  .card-team3{
+    padding: 0 10px !important;
+    margin-left: 450px;
+    margin-bottom: 35px;
+  }
+  .card-team4{
+  padding: 0 !important;
+  margin-left: 290px;
+  margin-bottom: 35px;
+  }
+  .card-team5{
+  padding: 0 !important;
+  margin-left: 290px;
+  }
+  
+  .rounded-circle {
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .text-left {
+    height: 700px !important;
+    width: 350px !important;
+  }
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 100px !important;
+  }
+
+  /* MAIN NYANYA */
+
+.nya-text {
+  width: auto !important;
+  margin-left: 50px;
+  margin-top: 5px;
+
+}
+
+
+.nya-text-p1 {
+  padding-bottom: 30px;
+}
+
+.nya-text-p2 {
+  padding-bottom: 35px;
+}
+
+.nya-text-p4 {
+  margin-left: 50px;
+  padding-bottom: 20px;
+}
+
+.nya-text-p5 {
+  margin-left: 50px;
+  padding-bottom: 20px;
+}
+
+.nya-img {
+width: 90%;
+margin-bottom: 25px;
+
+}
+
+/* STYLE TEATRE */
+.container-t {
+  width: 1400px;
+  font-size: 14px !important;
+}
+
+.container-text {
+  margin-left: -10px;
+  margin-top: 17px;
+}
+
+.img-teatr {
+  margin-top: 83px;
+  margin-left: -50px;
+}
+
+.img-main {
+  margin-left: 50px;
+  width: 105%;
+}
+
+.text-back {
+  margin-top: -10px;
+  font-size: 20px !important;
+}
+
+.heading-teatr {
+  width: 840px;
+  font-size: 30px !important;
+}
+
+.descr-teatr {
+  margin-top: 30px;
+  font-size: 24px !important;
+}
+
+.icon-text {
+  margin-top: 40px;
+  padding: 0;
+}
+
+
+.icon-teatr1 {
+  padding-right: 20px;
+  margin-bottom: 15px;
+}
+.icon-teatr2 {
+  padding-right: 30px;
+  margin-top: -25px;
+}
+.icon-teatr3 {
+  margin-right: 15px;
+  margin-top: -20px;
+}
+.icon-teatr4 {
+  padding-right: 25px;
+  margin-top: -13px;
+}
+.icon-teatr5 {
+  padding-right: 15px;
+  margin-top: -13px;
+}
+
+.all-text-icon {
+  align-items: center;
+}
+
+.text-bottom {
+  width: 1440px !important;
+  margin-top: 7px;
+  margin-left: -12px;
+  font-size: 11px !important;
+}
+
+
+}
+              
+
+@media screen and (max-width: 576px) {
+
+/* HERO */
+
+    .hero-section {
+      margin-top: 50px;
+      }
+      
+      .hero-img {
+      width: 500px !important;
+      height: auto !important;
+      }
+      
+      .hero-all {
+      font-size: 10px;
+      }
+      
+      .hero-title {
+      font-size: 18px;
+      }
+      
+      .hero-btn {
+      width: 80px;
+      height: 30px;
+      font-size: 8px;
+      }
+
+      /* HELP */
+
+      .img-fluid {
+        width: 250px !important;
+        height: auto !important;
+        margin-left: 0px; 
+        margin-bottom: 50px;
+        }
+        
+        .help-text {
+        margin-top: 20px;
+        font-size: 8px !important;
+        margin-left: 0px !important;
+        padding-right: 0;
+        }
+
+        .help-descr {
+          font-size: 10px !important;
+          margin-left: 20px;
+        }
+
+        /* WAYS */
+.card-img {
+  width: 100%;
+  height: auto;
+  padding: 0 !important;
+  }
+  
+  .ways-container {
+  margin-left: 0;
+  }
+  
+  .card1, .card2 {
+  width: 100% !important;
+  height: auto !important;
+  }
+
+  .card2 {
+    margin-left: -2px;
+  }
+  
+  .card-horizontal {
+  flex-direction: column;
+  }
+
+   /* FOOTER */
+
+   .footer-logo {
+    text-align: center;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 25% !important;
+    }
+    
+    .column-f {
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+    }
+    
+    .list-1,
+    .list-2,
+    .list-3 {
+    margin-left: 0;
+    margin-bottom: 10px;
+    text-align: center;
+    
+    }
+    
+    .fa-chevron-right,
+    .fa-globe,
+    .fa-envelope,
+    .fa-phone {
+    margin-right: 5px;
+    }
+
+    .list-unstyled {
+      font-size: 12px;
+    }
+
+    /* ABOUT */
+
+    .font-red {
+      font-size: 28px;
+      width: 100%;
+    }
+
+    /* WAYS */
+    /* WAYS */
+    .help-headers {
+      margin-left: 100px;
+    }
+
+    .card-imgs {
+      width: 100% !important;
+      height: auto;
+      padding: 0 !important;
+      }
+      
+      .ways-containers {
+      margin-left: -60px;
+      }
+      
+      .card1s, .card2s {
+      width: 200px !important;
+      height: 450px !important;
+      padding: 0 !important;
+      }
+
+      .card1s {
+        margin-left: -320px !important;
+      }
+      
+      .card-horizontals {
+      justify-content: start !important;
+      flex-direction: column;
+      }
+
+      .mini-mm {
+        margin-left: 00px;
+      }
+
+      .card-titles {
+        font-size: 12px !important;
+      }
+      .card-texts {
+        font-size: 8px !important;
+      }
+             /* TEAM */
+
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 40px;
+  }
+  
+  .users-text{
+    margin-top: 5px;
+    margin-left: 108px;
+  }
+  
+  .users {
+    width: 920px;
+    margin-left: -265px;
+    margin-top: 33px;
+    flex-direction: column;
+  }
+  
+  .card-team1{
+  padding: 0 !important;
+  padding-right: 0px !important;
+  margin-bottom: 35px;
+  margin-left: 460px;
+  }
+  .card-team2{
+  padding: 0 5px !important;
+  margin-left: 455px;
+  margin-bottom: 35px;
+  
+  }
+  .card-team3{
+    padding: 0 10px !important;
+    margin-left: 450px;
+    margin-bottom: 35px;
+  }
+  .card-team4{
+  padding: 0 !important;
+  margin-left: 195px;
+  margin-bottom: 35px;
+  }
+  .card-team5{
+  padding: 0 !important;
+  margin-left: 195px;
+  }
+  
+  .rounded-circle {
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .text-left {
+    height: 700px !important;
+    width: 350px !important;
+  }
+  
+  .menu-cont{
+    margin-top: 15px;
+    margin-left: 100px !important;
+  }
+
+  /* HISTORY */
+  .his-con {
+    margin-top: 23px;
+    margin-left: 0px;
+  }
+  
+  .his-text1 {
+    margin-left: 0px;
+  }
+  
+  .his-text2 {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+  
+  .his-text3 {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+
+  .carousel {
+    width: 100%;
+    height: 100%;
+  }
+  /* STYLE TEATRE */
+.container-t {
+  width: 1400px;
+  font-size: 14px !important;
+}
+
+.container-text {
+  margin-left: -10px;
+  margin-top: 17px;
+}
+
+.img-teatr {
+  margin-top: 83px;
+  margin-left: -50px;
+}
+
+.img-main {
+  margin-left: 50px;
+  width: 105%;
+}
+
+.text-back {
+  margin-top: -10px;
+  font-size: 20px !important;
+}
+
+.heading-teatr {
+  width: 840px;
+  font-size: 24px !important;
+}
+
+.descr-teatr {
+  margin-top: 0px;
+  font-size: 20px !important;
+}
+
+.icon-text {
+  margin-top: 40px;
+  padding: 0;
+}
+
+
+.icon-teatr1 {
+  padding-right: 20px;
+  margin-bottom: 15px;
+}
+.icon-teatr2 {
+  padding-right: 30px;
+  margin-top: -25px;
+}
+.icon-teatr3 {
+  margin-right: 15px;
+  margin-top: -20px;
+}
+.icon-teatr4 {
+  padding-right: 25px;
+  margin-top: -13px;
+}
+.icon-teatr5 {
+  padding-right: 15px;
+  margin-top: -13px;
+}
+
+.all-text-icon {
+  align-items: center;
+}
+
+.text-bottom {
+  width: 1440px !important;
+  margin-top: 7px;
+  margin-left: -12px;
+  font-size: 8px !important;
+}
+
+.map {
+display: none;
+}
+  
+.navbar-brand {
+  display: none;
+}
+
+.con-text1 {
+  margin-left: 30px;
+}
+  }
+

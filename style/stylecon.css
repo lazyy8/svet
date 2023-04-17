@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Montserrat';
+}
+ 
+ 
+ 
+  /* НАВИГАЦИЯ  */
+
+  nav ul {
+    display: inline-block; /* установка блока на одной строке */
+    list-style: none; /* удаление маркеров списка */
+    margin: 0 !important; /* удаление отступов */
+    padding: 0 !important; /* удаление внутренних отступов */
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: auto 2.5em;
+    
+  }
+  
+  nav img{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  nav a {
+    text-decoration: none; /* удаление подчеркивания ссылок */
+    color: #000 !important; /* установка цвета текста */
+    font-weight: bold; /* установка жирного шрифта */
+    font-size: 18px; /* установка размера шрифта */
+    padding: 0 !important;
+    
+  }
+
+  btn {
+    color: #CB4E5D;
+    border-color: #CB4E5D;
+    border-width: 2px;
+  }
+
+  
+
+  .nav-section {
+    all: initial;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    display: flex; /* установка flexbox контейнера */
+    justify-content: center; /* выравнивание по центру по горизонтали */
+    align-items: center; /* выравнивание по центру по вертикали */
+    height: 60px; /* задание высоты элемента */
+    
+}
+
+
+
+.nav-btn {
+    width: 176px;
+    height: 45px;
+    background-color: transparent;
+    color: #CB4E5D;
+    border-color: #CB4E5D;
+    border-width: 2px;
+  }
+  /* MM */
+
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+  
+  a:hover {
+    color: #CB4E5D !important;
+  }
+  
+  .mini-m{
+    margin-top: 18px;
+    margin-right: 405px !important ;
+  }
+  
+  .a-link {
+    padding: 0 !important;
+  }
+  
+  .a-item {
+    padding: 0 !important;
+  }
+  
+  .icon-about {
+    margin-left: 13px;
+    padding-right: 5px;
+  }
+  
+
+
+/* Title */
+.con-con {
+    margin-left: -45px;
+    margin-top: 20px;
+}
+
+.con-text1 {
+  margin-left: -40px;
+  margin-top: px;
+}
+
+.con-text2 {
+  margin-left: 0px;
+  margin-top: 10px;
+}
+
+
+
+/* Footer */
+
+/* FOOTER */
+
+.footer-logo {
+  height: 70px !important;
+  width: 156px !important;
+  margin-left: -45px !important;
+}
+
+.footer {
+  width: 1900px;
+  flex: auto;
+  margin-top: 50px;
+  text-decoration: none;
+}
+
+.footer-all {
+  margin: 0;
+  padding: 0;
+  margin-top: 35px;
+  text-decoration: none;
+}
+
+.column-f{
+ width: 1900px;
+}
+
+.list-1 {
+  margin-left: -170px;
+}
+
+.list-2 {
+  margin-left: -170px;
+}
+
+.list-3 {
+  margin-left: -185px;
+}
+
+.list-icon {
+  margin: 0;
+  margin-top: -7px;
+}
+
+.li-footer {
+  padding-top: 10px;
+}
+
+a {
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #CB4E5D !important;
+}
+
+
+
+.fa-chevron-right {
+  color: #000;
+  margin-right: 7px;
+}
+
+.fa-globe {
+  color: #000;
+  margin-right: 7px;
+}
+.fa-envelope {
+ color: #000;
+ margin-right: 7px;
+}
+
+.fa-phone {
+  color: #000;
+  margin-right: 7px;
+}
+
